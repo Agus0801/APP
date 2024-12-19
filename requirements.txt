@@ -4,4 +4,4 @@ pandas
 streamlit
 plotly.express
 matplotlib
-matplotlib.pyplot
+pyplot
