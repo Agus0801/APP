@@ -1,7 +1,5 @@
-datetime 
-numpy
-pandas
 streamlit
-plotly.express
+pandas
+numpy
 matplotlib
-pyplot
+plotly
